@@ -1,4 +1,4 @@
 zLua
 =====
 
-Full stack web framework for lua
+Simple web framework for lua.
